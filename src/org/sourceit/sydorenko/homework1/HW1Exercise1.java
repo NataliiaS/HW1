@@ -15,6 +15,7 @@ public class HW1Exercise1
             a = a/10;
         }
         System.out.println(sum);
+        System.out.println("dgdgdgg");
     }
 }
 
